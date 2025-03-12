@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tachoflash
+- 👋 Hi, I’m edwin
 - 👀 I’m interested in Coding and ciber security
 - 🌱 I’m currently learning general computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ideas that give a positive impact to the technological world.
 - 📫 How to reach me email-eduu6500@gmail
 
 <!---
